@@ -1,0 +1,11 @@
+{
+    "instant_games":{
+        "platform_version":  "Mobile",
+        "custom_update_templates": {
+            "play_turn": {
+                "example": "Your Turn"
+            }
+        },
+        "navigation_menu_version": "NAV_FLOATING"
+    }
+}
