@@ -45,3 +45,5 @@ I wish from anyone who wants to continue developing this game is to make it a mu
 # Test Game
 
 you can test the game on this link
+
+https://c-store.000webhostapp.com/index.html
